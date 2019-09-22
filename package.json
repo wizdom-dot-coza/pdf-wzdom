@@ -1,0 +1,25 @@
+{
+  "name": "pdf-wzdom",
+  "version": "1.0.0",
+  "description": "pdf-wzdom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizdom-dot-coza/pdf-wzdom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wizdom-dot-coza/pdf-wzdom/issues"
+  },
+  "homepage": "https://github.com/wizdom-dot-coza/pdf-wzdom#readme",
+  "dependencies": {
+    "pdfjs-dist": "^2.1.266"
+  },
+  "devDependencies": {
+    "webpack": "^4.40.2"
+  }
+}
